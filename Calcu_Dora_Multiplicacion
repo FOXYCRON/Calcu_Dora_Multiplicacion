@@ -1,0 +1,32 @@
+Algoritmo Calcu_Dora_Multiplicacion
+	
+	// Definimos Variables
+	A = 0
+	B = 0
+	C = 0
+	
+	// Pedimos primer numero
+	Escribir 'Dame un numero'
+	
+	// Pedimos primer valor
+	Leer A
+	
+	// Pedimos segundo numero
+	Escribir 'Dame segundo numero'
+	
+	// Pedimos segundo valor
+	Leer B
+	
+	// Hacemos la multiplicacion
+	C = A /  B   //  < - - Si queremos hacer que divida, sume, multiplique, reste, etc solo debemos cambiar el simbolo.
+	// Como por ejemplo: 
+	// * Multiplicacion
+	// / Divicion
+	// + Suma
+	// - Resta
+	// Entre otros
+	
+	// Lanzamos resultado
+	Escribir 'El resultado de: ',A,' x ',B,' = ', C
+	
+FinAlgoritmo
